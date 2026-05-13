@@ -7,7 +7,7 @@ My portfolio shows three projects that I have worked on during my time as a Stud
 |---------|-------------|------|
 | [Personal Portfolio Website](#1-personal-portfolio-website) | HTML, CSS, JavaScript, Foundation | Solo / Front-End |
 | [St. Paul Crime SPA](#2-st-paul-crime-spa) | Vue 3, Vite, Leaflet, REST APIs | Team / Full-Stack |
-| [Food Pantry Database Project](#3-food-pantry-database-project) | Python, Flask, SQLite, HTML/CSS/JS | Team / Full-Stack |
+| [Food Pantry Database Project](#3-food-pantry-database-project) | Python, Flask, SQLite, HTML/CSS/JS | Solo / Full-Stack |
 
 ---
 
@@ -35,6 +35,6 @@ I chose to highlight this project because it represents the most technically com
 
 **Repository:** [legojackt-ai/DataBase_Project](https://github.com/legojackt-ai/DataBase_Project)
 
-This project is a full-stack database application built to manage the operations of a food pantry. It supports tracking families, neighbors, proxies, food sources, donated items, and visit events through both a command-line interface (CLI) and a browser-based web frontend. The backend is a SQLite database with a schema designed to handle complex relationships between entities, exposed through a Python Flask server that serves both a REST API and a web UI.
+This project is a full-stack database application built to manage the operations of a food pantry. It supports tracking families, neighbors, proxies, food sources, donated items, and visit events through both a command-line interface (CLI) and a browser-based web frontend. The backend is a SQLite database with a schema designed to handle complex relationships between entities, exposed through a Python Flask server that serves both a REST API and a web UI. While it is not my repository, all work done on this project was done by me, besides the initial files. 
 
 I chose to include this project because it demonstrates a completely different dimension of software development from my other work, namely, data modeling, relational database design, and server-side programming. Designing a schema that accurately captures the real operational needs of a food pantry required careful thinking about how data relates to real people and real situations. This project also connects directly to the Mission of the Common Good, as we set out to help Nourish improve its systems so it can more easily serve the people in the local area. 
