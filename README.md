@@ -26,9 +26,10 @@ I chose to include this project because it represents something I built entirely
 
 **Repository:** [john9872stthomasedu/webdev-crimespa](https://github.com/john9872stthomasedu/webdev-crimespa)
 
-This project is a collaborative Single Page Application (SPA) developed alongside teammates Prince Cole and Jack Johnson as part of a web development course at St. Thomas. The application lets users explore crime data from the city of St. Paul through an interactive map powered by the Leaflet API. Users can search for addresses using the Nominatim geocoding API, view crime statistics by neighborhood, and even submit new crime records to a custom-built REST API backend. The front end was built entirely with Vue 3 and Vite.
+This project is a collaborative Single Page Application (SPA) developed alongside teammates Prince Cole and Jack Johnson as part of a web development course at St. Thomas. The application lets users explore crime data from the city of St. Paul through an interactive map powered by the Leaflet API. Users can search for addresses using the Nominatim geocoding API, view crime statistics by neighborhood, and even submit new crime records to a custom-built REST API backend. 
 
-I chose to highlight this project because it represents the most technically complex work I completed as an undergraduate. It required integrating multiple external APIs, coordinating front-end and back-end development across a team, and solving real-world challenges like cross-origin resource sharing (CORS) and data formatting. This also demonstrates my frontend skills as they have developed into including a backend database that can be pulled. 
+The front end was built entirely with Vue 3 and Vite. I chose to highlight this project because it represents the most technically complex work I completed as an undergraduate. It required integrating multiple external APIs, coordinating front-end and back-end development across a team, and solving real-world challenges like cross-origin resource sharing (CORS) and data formatting. This also demonstrates my frontend skills as they have developed into including a backend database that can be pulled. 
+
 ---
 
 ## 3. Food Pantry Database Project
